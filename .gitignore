@@ -115,6 +115,6 @@ temp/
 # Patches (Manus specific)
 patches/
 
-# Package lock files (using pnpm-lock.yaml)
-package-lock.json
+# pnpm lock file (using npm now)
+pnpm-lock.yaml
 .claude/
